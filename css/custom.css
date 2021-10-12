@@ -80,7 +80,8 @@ header {
 header .logo {
 	height: 100%;
 	display: flex;
-	align-items: center
+	align-items: center;
+	margin-top: 4px
 }
 .stickyheader .logo {
     margin-top: 15px;
